@@ -34,5 +34,7 @@ public class Tc9_AddToCart extends BaseTest {
 		a1.assertAll();
 		Reporter.log("Test case is pass");
 
+
+
 	}
 }
